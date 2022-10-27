@@ -55,7 +55,7 @@ def adjust(M):
                 mat[i][c] = M[i][j]
                 if j != c:
                     flag = True
-                c =c+ 1
+                c =c+1
     return mat, flag
 
 
