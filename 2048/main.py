@@ -32,7 +32,7 @@ cell_clr = {
     1024: "#f9f6f2",
     2048: "#f9f6f2",
 }
-f = ("Verdana", 40, "bold")
+f = ("Verdana", 50, "italic")
 
 ctrls_alt = ["'\\uf700'", "'\\uf702'", "'\\uf701'", "'\\uf703'"]
 ctrls1 = ["'w'", "'a'", "'s'", "'d'"]
